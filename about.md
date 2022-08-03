@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: 关于我
 permalink: /about/
 ---
 
-Some information about you!
+一个破画画的。
 
-### More Information
+### 更多信息
 
-A place to include any other types of information that you'd like to include about yourself.
+尚待补充。
 
-### Contact me
+### 联系方法
 
-[email@domain.com](mailto:email@domain.com)
+[向我发送电子邮件](mailto:264346075@qq.com)
+您也可以通过QQ来联系我：264346075
