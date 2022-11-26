@@ -14,5 +14,5 @@ permalink: /about/
 
 ### 联系方法
 
-[请通过QQ来联系我](url=https://wpa.qq.com/msgrd?v=3&uin=264346075)  
+[请通过QQ来联系我](https://qm.qq.com/cgi-bin/qm/qr?k=_-Q7mXHU25Eg222BfBzf6TB9uFWvtaq5&noverify=0)  
 [也可以选择向我发送电子邮件](mailto:eeearl@qq.com)
