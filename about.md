@@ -8,8 +8,8 @@ permalink: /about/
 
 ### 更多信息
 
-Complex Studio复合工作室美工组Level.2组员  MCBBS认证创作者
-##最近打算读《美丽新世界》😜
+Complex Studio复合工作室美工组Level.2组员  MCBBS认证创作者  
+最近打算读《美丽新世界》😜
 
 ### 联系方法
 
