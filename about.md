@@ -8,11 +8,11 @@ permalink: /about/
 
 ### 更多信息
 
-Complex Studio复合工作室美工组Level.2组员  MCBBS认证创作者  
+*Complex Studio复合工作室美工组Level.2组员  
+*MCBBS认证创作者  
 最近打算读《美丽新世界》😜
 
 ### 联系方法
 
-[点击向我发送电子邮件](mailto:eeearl@qq.com)
-
-您也可以通过QQ来联系我：264346075
+[url=https://wpa.qq.com/msgrd?v=3&uin=264346075]请通过QQ来联系我[/url]  
+[也可以选择向我发送电子邮件](mailto:eeearl@qq.com)
