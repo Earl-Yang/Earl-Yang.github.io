@@ -171,7 +171,6 @@ img {
   height: 70px;
   margin-right: 15px;
 
-html,body{
   @include mobile {
     max-width:100%;
     height: auto;
@@ -180,7 +179,6 @@ html,body{
     margin: 0 -32px;
     padding: initial;
   }
-}
 
   img {
     border-radius: 0px;
