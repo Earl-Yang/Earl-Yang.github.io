@@ -169,18 +169,19 @@ img {
   float: left;
   width: 70px;
   height: 70px;
-  margin-right: 15px;
+  margin-right: 0px;
 
   @include mobile {
     width: 100%;
     height: 100%;
     float: none;
+    display: block;
     margin: 0 auto;
-    padding: 0 0;
+    padding: 0;
   }
 
   img {
-    border-radius: 5px;
+    border-radius: 0px;
   }
 }
 
