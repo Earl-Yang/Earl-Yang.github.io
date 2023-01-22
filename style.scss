@@ -172,7 +172,7 @@ img {
   margin-right: 15px;
 
   @include mobile {
-    width:99999px;
+    max-width:99999px;
     height: auto;
     float: none;
     display: block;
