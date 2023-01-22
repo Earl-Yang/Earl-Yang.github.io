@@ -14,5 +14,5 @@ permalink: /about/
 
 ### 联系方法
 
-[请通过QQ来联系我(264346075)](https://qm.qq.com/cgi-bin/qm/qr?k=_-Q7mXHU25Eg222BfBzf6TB9uFWvtaq5&noverify=0)  
-[也可以选择向我发送电子邮件](mailto:eeearl@qq.com)
+QQ: [264346075](https://qm.qq.com/cgi-bin/qm/qr?k=_-Q7mXHU25Eg222BfBzf6TB9uFWvtaq5&noverify=0)  
+Email: [eeearl@qq.com](mailto:eeearl@qq.com)
