@@ -172,12 +172,12 @@ img {
   margin-right: 0px;
 
   @include mobile {
-    height: auto;
+  html,body{
+    height: 100%;
     float: none;
     display: block;
     margin: 0 -32px;
     padding: initial;
-    html,body{
     width:100%;
     }
   }
