@@ -172,8 +172,8 @@ img {
   margin-right: 0px;
 
   @include mobile {
-    width: 100%;
-    height: 100%;
+    width: fill;
+    height: fill;
     float: none;
     display: block;
     margin: 0 -32px;
