@@ -171,16 +171,16 @@ img {
   height: 70px;
   margin-right: 0px;
 
+html,body{
   @include mobile {
-  html,body{
     height: 100%;
     float: none;
     display: block;
     margin: 0 -32px;
     padding: initial;
     width:100%;
-    }
   }
+}
 
   img {
     border-radius: 0px;
