@@ -165,13 +165,13 @@ img {
   }
 }
 
+html,body{
 .site-avatar {
   float: left;
   width: 70px;
   height: 70px;
   margin-right: 0px;
 
-html,body{
   @include mobile {
     height: 100%;
     float: none;
