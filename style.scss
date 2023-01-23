@@ -172,11 +172,12 @@ img {
   margin-right: 15px;
   img {
     border-radius: 5px;
+    clip-path: inset(0px 0px 0px 0px);
   }
   @include mobile {
     width: unset;
     max-width:99999px;
-    height: 80%;
+    height: 100%;
     object-fit: cover;
     float: none;
     display: block;
@@ -184,7 +185,7 @@ img {
     padding: initial;
     img {
       border-radius: 0px;
-      background-position: center top;
+      clip-path: inset(0px 0px 100px 0px);
     }
   }
 }
