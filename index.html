@@ -7,26 +7,6 @@ layout: default
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-<div class="c9">
-	Categories：
-		{ %for cg in post.categories % }
-		<a href="/categories.html#-ref"></a>
-		{ %if forloop.index < forloop.length % }
-		,
-		{ %endif%}
-		{ %endfor%}
-	|
-	Tags：
-		{ %for cg in post.tags %}
-		<a href="/tags.html#-ref"></a>
-		{ %if forloop.index < forloop.length %}
-		,
-		{ %endif%}
-		{ %endfor%}
-	|
-	Time：<time date="{ { post.date|date: '%Y-%m-%d' }}"></time>
-	<a href='#comments' title='分享文章、查看评论' style="float:right;margin-right:.5em;">Comments</a>
-</div>
 
       <div class="entry">
         {{ post.excerpt }}
