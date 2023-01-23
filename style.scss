@@ -178,7 +178,7 @@ img {
   @include mobile {
     width: unset;
     max-width:99999px;
-    height: max-content;
+    height: 250px;
     object-fit: cover;
     float: none;
     display: block;
