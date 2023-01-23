@@ -172,15 +172,17 @@ img {
   margin-right: 15px;
 
   @include mobile {
-    width: unset;
-    max-width:99999px;
-    height: 80%;
-    object-fit: cover;
-    object-position: 0% 50%;
-    float: none;
-    display: block;
-    margin: -20px -32px 10px;
-    padding: initial;
+    .alligator-turtle {
+      width: unset;
+      max-width:99999px;
+      height: 80%;
+      object-fit: cover;
+      object-position: 0% 50%;
+      float: none;
+      display: block;
+      margin: -20px -32px 10px;
+      padding: initial;
+    }
   }
 
 img {
