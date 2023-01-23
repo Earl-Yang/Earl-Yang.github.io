@@ -175,6 +175,7 @@ img {
       width: unset;
       max-width:99999px;
       height: 80%;
+      background-size: cover;
       float: none;
       display: block;
       margin: -20px -32px 10px;
@@ -182,7 +183,10 @@ img {
   }
 
 img {
-    border-radius: 0px;
+    border-radius: 5px;
+    @include mobile {
+      border-radius: 0px;  
+    }
   }
 }
 	
