@@ -86,3 +86,5 @@ exclude:
   - CNAME
 
 theme: jekyll-theme-merlot
+
+excerpt_length: 100
