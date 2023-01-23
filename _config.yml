@@ -87,4 +87,5 @@ exclude:
 
 theme: jekyll-theme-merlot
 
-excerpt_length: 100
+gems:
+  - jekyll-excerpts
