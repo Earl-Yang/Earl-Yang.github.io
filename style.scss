@@ -173,7 +173,7 @@ img {
   margin-right: 15px;
   img {
     border-radius: 5px;
-    clip-path: inset(0px 0px 0px 0px);
+    clip-path: inset(0px 0px 0px 0px 0px);
   }
   @include mobile {
     width: unset;
