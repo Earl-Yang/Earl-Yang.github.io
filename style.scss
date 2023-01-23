@@ -169,6 +169,7 @@ img {
   float: left;
   height: 70px;
   margin-right: 15px;
+    width: 70px
     img {
       border-radius: 5px;
     }
@@ -181,10 +182,6 @@ img {
     padding: initial;
   }
 
-  img {
-    border-radius: 0px;
-  }
-  width: 70px;
 }
 
 .site-info {
