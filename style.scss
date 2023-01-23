@@ -165,7 +165,6 @@ img {
   }
 }
 
-.alligator-turtle {
 .site-avatar {
   float: left;
   width: 70px;
@@ -176,8 +175,6 @@ img {
       width: unset;
       max-width:99999px;
       height: 80%;
-      object-fit: cover;
-      object-position: 0% 50%;
       float: none;
       display: block;
       margin: -20px -32px 10px;
@@ -187,7 +184,6 @@ img {
 img {
     border-radius: 0px;
   }
-}
 }
 	
 .site-info {
