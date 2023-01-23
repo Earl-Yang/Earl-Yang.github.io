@@ -172,18 +172,17 @@ img {
   margin-right: 15px;
 
   @include mobile {
-    width: max-content;
+    width: unset;
     max-width:99999px;
     height: auto;
     float: none;
     display: block;
     margin: -20px -32px 10px;
     padding: initial;
-    border-radius: 0px;
   }
 
 img {
-    border-radius: 5px;
+    border-radius: 0px;
   }
 }
 
