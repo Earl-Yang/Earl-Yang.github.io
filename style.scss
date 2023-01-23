@@ -169,11 +169,11 @@ img {
   float: left;
   width: 70px;
   height: 70px;
-  overflow: hidden;
   margin-right: 15px;
+  overflow: hidden;
   img {
     border-radius: 5px;
-    clip-path: inset(0px 0px 0px 0px 0px);
+    clip-path: inset(0px 0px 0px 0px);
   }
   @include mobile {
     width: unset;
@@ -186,7 +186,7 @@ img {
     padding: initial;
     img {
       border-radius: 0px;
-      clip-path: inset(0px 0px 0px 0px 100px);
+      clip-path: inset(0px 0px 100px 0px);
     }
   }
 }
