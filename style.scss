@@ -167,22 +167,24 @@ img {
 
 .site-avatar {
   float: left;
+  width: 70px;
   height: 70px;
   margin-right: 15px;
-  width: 70px
-  img {
-    border-radius: 5px;
-  }
+
   @include mobile {
-    width: unset;
+    width: max-content;
     max-width:99999px;
     height: auto;
     float: none;
     display: block;
     margin: -20px -32px 10px;
     padding: initial;
+    border-radius: 0px;
   }
 
+img {
+    border-radius: 5px;
+  }
 }
 
 .site-info {
