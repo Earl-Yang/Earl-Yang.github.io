@@ -172,7 +172,7 @@ img {
   margin-right: 15px;
   overflow: hidden;
   img {
-    border-radius: 5px;
+    border-radius: 0px;
   }
   @include mobile {
     width: unset;
