@@ -11,7 +11,6 @@ banner:
   height: "50vh" 
   min_height: "50vh" 
   heading_style: "font-size: 4.25em; font-weight: bold; " 
-  subheading_style: "color: gold"
 ---
 
 &ensp;&ensp;目前本博客尚处于初步建设阶段，待添加更多内容。
